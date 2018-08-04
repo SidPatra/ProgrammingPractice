@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\virtualfunc2\virtualfunc2\source.cpp(89): warning C4101: 'dptr': unreferenced local variable
+  virtualfunc2.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\virtualfunc2\Debug\virtualfunc2.exe
+  virtualfunc2.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\virtualfunc2\Debug\virtualfunc2.pdb (Partial PDB)

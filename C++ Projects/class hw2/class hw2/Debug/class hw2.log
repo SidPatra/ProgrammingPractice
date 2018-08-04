@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siddharth patra\documents\visual studio 2017\projects\class hw2\class hw2\source.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  class hw2.vcxproj -> c:\users\siddharth patra\documents\visual studio 2017\Projects\class hw2\Debug\class hw2.exe
+  class hw2.vcxproj -> c:\users\siddharth patra\documents\visual studio 2017\Projects\class hw2\Debug\class hw2.pdb (Partial PDB)

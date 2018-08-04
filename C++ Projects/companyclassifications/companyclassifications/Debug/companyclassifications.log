@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\companyclassifications\companyclassifications\source.cpp(50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\companyclassifications\companyclassifications\source.cpp(51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\companyclassifications\companyclassifications\source.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\companyclassifications\companyclassifications\source.cpp(99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\companyclassifications\companyclassifications\source.cpp(105): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\companyclassifications\companyclassifications\source.cpp(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\companyclassifications\companyclassifications\source.cpp(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  companyclassifications.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\companyclassifications\Debug\companyclassifications.exe
+  companyclassifications.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\companyclassifications\Debug\companyclassifications.pdb (Partial PDB)

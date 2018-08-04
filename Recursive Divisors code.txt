@@ -1,0 +1,66 @@
+'''Actual code'''
+# YOUR NAME: Siddharth Patra
+# YOUR PSU EMAIL ADDRESS: smp6183@psu.edu
+# DESCRIPTION OF ALGORITHM (APPROACH): 
+# Both functions start with an empty list that is predefined as lst = [] (empty)
+# For divisors(), if the value of k was 1, a value 1 was added to the list returned by the function
+# For all values before it, k was a divisor of n (as in, if n % k == 0) then those values were added to the list.
+# Then function was called through the return statement. If not, k was reduced by one, and carried forward into 
+# the return of divisor() anyway.
+# allDivisorsOf() was set up similarly, except k and lst were both predefined. If the list was empty, 0 was added to the list.
+# At the final return of the function, it would be removed. It was placed there to make sure the program wouldn't
+# confuse itself and repeat the empty list condition over and over again.
+# Inside that same condition, k, which was predefined as 0, turns into n.
+# After returning itself, the function would reduce the value of k (it is newly initialized as being the same as n) and adds to the list
+# same as divisors().
+# END OF HEADER INFORMATION
+# -----------------------------------------------
+# PLACE ANY NEEDED IMPORT STATEMENTS HERE:
+# END OF IMPORT STATEMENTS
+# -----------------------------------------------
+# -----------------------------------------------
+# DEFINE YOUR FUNCTIONS IN THIS SECTION
+# -----------------------------------------------
+
+def allDivisorsOf(n,k=0,lst=[]):
+   if k == 1:
+      lst.append(1)
+      lst.remove(0)
+      return lst
+   if lst ==[]:
+      lst.append(0)
+      k = n
+      return allDivisorsOf(n,k,lst)
+   else:
+      if n % k == 0:
+         lst.append(k)
+         k-=1
+         return allDivisorsOf(n,k,lst)
+      else:
+         k-=1
+         return allDivisorsOf(n,k,lst)
+
+
+def divisors(k,n,lst=[]):
+   if k == 1:
+      lst.append(1)
+      return lst
+   else:
+      if n % k == 0:
+         lst.append(k)
+         k-=1
+         return divisors(k,n,lst)
+      else:
+         k-=1
+         return divisors(k,n,lst)
+#------------------------------------------------
+# END OF FUNCTION DEFINITIONS
+#------------------------------------------------
+# DO NOT MODIFY WHAT IS BELOW
+def main():
+   n = int(input())
+   k = int(input())
+   print(divisors(k,n))
+   print(allDivisorsOf(n))
+if __name__ == "__main__":
+   main()

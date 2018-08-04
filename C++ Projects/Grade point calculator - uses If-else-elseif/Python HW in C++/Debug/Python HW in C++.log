@@ -1,0 +1,12 @@
+﻿  Python HW in C++.cpp
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\python hw in c++\python hw in c++\python hw in c++.cpp(56): warning C4101: 'p': unreferenced local variable
+  Python HW in C++.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\Python HW in C++\Debug\Python HW in C++.exe
+  Python HW in C++.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\Python HW in C++\Debug\Python HW in C++.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siddharth patra\documents\visual studio 2017\projects\class hw2-howto\class hw2-howto\source.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  class hw2-howto.vcxproj -> C:\Users\Siddharth Patra\Documents\Visual Studio 2017\Projects\class hw2-howto\Debug\class hw2-howto.exe
+  class hw2-howto.vcxproj -> C:\Users\Siddharth Patra\Documents\Visual Studio 2017\Projects\class hw2-howto\Debug\class hw2-howto.pdb (Partial PDB)

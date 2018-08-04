@@ -1,0 +1,7 @@
+﻿  Lesson 3 - More functions - Calculator.cpp
+c:\users\siddharth patra\documents\visual studio 2017\projects\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator.cpp(26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator.cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator\lesson 3 - more functions - calculator.cpp(41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lesson 3 - More functions - Calculator.vcxproj -> c:\users\siddharth patra\documents\visual studio 2017\Projects\Lesson 3 - More functions - Calculator\Debug\Lesson 3 - More functions - Calculator.exe
+  Lesson 3 - More functions - Calculator.vcxproj -> c:\users\siddharth patra\documents\visual studio 2017\Projects\Lesson 3 - More functions - Calculator\Debug\Lesson 3 - More functions - Calculator.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\operatorinclass\operatorinclass\source.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\operatorinclass\operatorinclass\source.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  operatorinclass.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\operatorinclass\Debug\operatorinclass.exe
+  operatorinclass.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\operatorinclass\Debug\operatorinclass.pdb (Partial PDB)

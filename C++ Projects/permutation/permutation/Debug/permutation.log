@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(10): error C2062: type 'int' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(10): error C2238: unexpected token(s) preceding ';'
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(11): error C2062: type 'int' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(11): error C2238: unexpected token(s) preceding ';'
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(12): error C2062: type 'int' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(12): error C2238: unexpected token(s) preceding ';'
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(14): error C2062: type 'char' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(14): error C2238: unexpected token(s) preceding ';'
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(15): error C2062: type 'char' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(16): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(21): error C2062: type 'int' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(21): error C2238: unexpected token(s) preceding ';'
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(22): error C2062: type 'int' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(28): error C2062: type 'char' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(29): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(36): error C2062: type 'void' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(37): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(59): error C2062: type 'void' unexpected
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(60): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\siddharth patra\desktop\c++ projects\permutation\permutation\source.cpp(69): fatal error C1004: unexpected end-of-file found

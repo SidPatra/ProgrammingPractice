@@ -1,0 +1,3 @@
+﻿  Lesson 2-3 - Getline and put.cpp
+c:\users\siddharth patra\desktop\c++ projects\lesson 2-3 - getline and put\lesson 2-3 - getline and put\lesson 2-3 - getline and put.cpp(78): error C2664: 'int sum(int [],int)': cannot convert argument 1 from 'int' to 'int []'
+  c:\users\siddharth patra\desktop\c++ projects\lesson 2-3 - getline and put\lesson 2-3 - getline and put\lesson 2-3 - getline and put.cpp(78): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast

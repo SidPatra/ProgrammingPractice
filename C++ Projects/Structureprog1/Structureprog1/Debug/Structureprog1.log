@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(43): error C2228: left of '.name' must have class/struct/union
+  c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(43): note: type is 'school *'
+  c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(43): note: did you intend to use '->' instead?
+c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(45): error C2228: left of '.st' must have class/struct/union
+  c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(45): note: type is 'school *'
+  c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(45): note: did you intend to use '->' instead?
+c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(45): error C2227: left of '->name' must point to class/struct/union/generic type
+c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(45): error C2227: left of '->mark' must point to class/struct/union/generic type
+c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(48): error C2228: left of '.t' must have class/struct/union
+  c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(48): note: type is 'school *'
+  c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(48): note: did you intend to use '->' instead?
+c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(48): error C2227: left of '->name' must point to class/struct/union/generic type
+c:\users\siddharth patra\desktop\c++ projects\structureprog1\structureprog1\source.cpp(48): error C2227: left of '->subject' must point to class/struct/union/generic type

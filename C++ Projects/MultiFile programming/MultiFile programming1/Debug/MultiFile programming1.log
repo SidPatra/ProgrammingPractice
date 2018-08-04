@@ -1,0 +1,4 @@
+﻿  addition.cpp
+c:\users\siddharth patra\desktop\c++ projects\multifile programming\multifile programming1\addition.cpp(10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  MultiFile programming1.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\MultiFile programming\Debug\MultiFile programming1.exe
+  MultiFile programming1.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\MultiFile programming\Debug\MultiFile programming1.pdb (Partial PDB)

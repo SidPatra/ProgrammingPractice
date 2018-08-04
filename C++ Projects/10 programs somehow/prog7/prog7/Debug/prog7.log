@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\10 programs somehow\prog7\prog7\source.cpp(39): warning C4930: 'math object1(void)': prototyped function not called (was a variable definition intended?)
+  prog7.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\10 programs somehow\prog7\Debug\prog7.exe
+  prog7.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\10 programs somehow\prog7\Debug\prog7.pdb (Partial PDB)

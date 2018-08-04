@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\structureprog3\structureprog3\source.cpp(53): warning C4700: uninitialized local variable 'p' used
+  StructureProg3.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\StructureProg3\Debug\StructureProg3.exe
+  StructureProg3.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\StructureProg3\Debug\StructureProg3.pdb (Partial PDB)

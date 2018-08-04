@@ -1,0 +1,13 @@
+﻿  Mr. Anh HW 1.cpp
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(69): error C2440: 'return': cannot convert from 'const char [12]' to 'int'
+  c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(69): note: There is no context in which this conversion is possible
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(71): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(73): error C2440: 'return': cannot convert from 'const char [14]' to 'int'
+  c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(73): note: There is no context in which this conversion is possible
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(75): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(77): error C2440: 'return': cannot convert from 'const char [11]' to 'int'
+  c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(77): note: There is no context in which this conversion is possible
+c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(81): error C2440: 'return': cannot convert from 'const char [6]' to 'int'
+  c:\users\siddharth patra\documents\visual studio 2017\projects\mr. anh hw 1\mr. anh hw 1\mr. anh hw 1.cpp(81): note: There is no context in which this conversion is possible

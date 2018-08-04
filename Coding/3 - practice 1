@@ -1,0 +1,12 @@
+# The formula for the volume of a sphere is (4/ 3) × pi × r ^ 3. (Note that r ^ 3 means "r raised to the power of 3".
+        #Since you do not know how to raise a number to a power, you can do this by multiplying, i.e., (r x r x r).)
+        # Write a program that prompts for the radius and calculates the volume of a sphere and displays the result.
+        # Use 3.1415 as the value of PI.
+r = 0
+while (r >= 0):
+    print('Enter the radius')
+    r = int(input())
+    print(r)
+    V = 4 * 3.1415 * (r**3) / 3
+    print('The volume is ',end=' ')
+    print (V)

@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(132): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(198): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(199): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(200): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(201): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(202): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(203): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int ***'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(204): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(205): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth patra\documents\visual studio 2017\projects\chapter 5 - all\chapter 5 - all\source.cpp(258): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Chapter 5 - all.vcxproj -> c:\users\siddharth patra\documents\visual studio 2017\Projects\Chapter 5 - all\Debug\Chapter 5 - all.exe
+  Chapter 5 - all.vcxproj -> c:\users\siddharth patra\documents\visual studio 2017\Projects\Chapter 5 - all\Debug\Chapter 5 - all.pdb (Partial PDB)

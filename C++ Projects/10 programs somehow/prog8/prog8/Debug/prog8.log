@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\10 programs somehow\prog8\prog8\source.cpp(41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\10 programs somehow\prog8\prog8\source.cpp(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\10 programs somehow\prog8\prog8\source.cpp(43): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\10 programs somehow\prog8\prog8\source.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siddharth patra\desktop\c++ projects\10 programs somehow\prog8\prog8\source.cpp(57): warning C4930: 'math object1(void)': prototyped function not called (was a variable definition intended?)
+  prog8.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\10 programs somehow\prog8\Debug\prog8.exe
+  prog8.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\10 programs somehow\prog8\Debug\prog8.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\diamondprograms\diamondprograms\source.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  diamondprograms.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\diamondprograms\Debug\diamondprograms.exe
+  diamondprograms.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\diamondprograms\Debug\diamondprograms.pdb (Partial PDB)

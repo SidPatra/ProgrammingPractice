@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siddharth patra\desktop\c++ projects\devy hws\lesson 2\alphabet\alphabet\source.cpp(69): warning C4305: 'initializing': truncation from 'double' to 'float'
+  alphabet.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\Devy HWs\lesson 2\alphabet\Debug\alphabet.exe
+  alphabet.vcxproj -> C:\Users\Siddharth Patra\Desktop\C++ Projects\Devy HWs\lesson 2\alphabet\Debug\alphabet.pdb (Partial PDB)
